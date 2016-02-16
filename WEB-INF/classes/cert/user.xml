@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>MixtapeApp</title>
+        <link>http://apachefs.ap01.aws.af.cm/</link>
+        <description>Mixtape RSS Feed</description>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>en</language>
+        <pubDate>Sat, 25 Jan 2014 11:16:57 +1100</pubDate>
+        <itunes:author>Netlifestyle</itunes:author>
+        <itunes:image href="http://apachefs.ap01.aws.af.cm/flags/denon.jpg"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:owner>
+            <itunes:name>Netlifestyle</itunes:name>
+            <itunes:email>info@netlifestyle.com</itunes:email>
+        </itunes:owner>
+        <itunes:block>no</itunes:block>
+        <itunes:category text="Music"/>
+    </channel>
+</rss>
